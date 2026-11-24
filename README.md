@@ -1,0 +1,3 @@
+# Osinachi Bright Abika
+
+Hi, I'm Osinachi Bright Abika, a PhD student in Engineering (Materials and Infrastructure Systems) at Louisiana Tech University and Assistant Supervisor in the university's AI & Robotics Lab. I build controls, automation and AI tools for industrial and infrastructure systems: interactive teaching labs for the UFACTORY Lite 6 robot arm, simulators that explain PLC logic, VFDs and control loops, and data analysis that turns maintenance records into preventive work, as in my Six Sigma Black Belt project that turns repeat sawmill breakdowns into planned maintenance. I'm now preparing clean public versions of my industrial controls demos and, after journal submission, the code for my MRI denoising research (PathologyLoss).
